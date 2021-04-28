@@ -4,3 +4,4 @@ SELECT id, create_at,
 FROM products;
 
 SELECT id, create_at, YEAR(create_at), MONTH(create_at) FROM products;
+
