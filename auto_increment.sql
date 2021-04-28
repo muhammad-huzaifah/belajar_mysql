@@ -25,4 +25,3 @@ VALUES ('Aleya', 'Ghaneya');
 SELECT LAST_INSERT_ID();
 
 SELECT * FROM admin;
-
