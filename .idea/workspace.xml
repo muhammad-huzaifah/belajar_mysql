@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59e115ba-8038-4915-a9c9-8c27ba658767" name="Default Changelist" comment="learn for LIMIT clause" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rXtEieGdVXXGrQWzkvskkB8TqR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59e115ba-8038-4915-a9c9-8c27ba658767" name="Default Changelist" comment="" />
+      <created>1619134159270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619134159270</updated>
+      <workItem from="1619134165562" duration="2182000" />
+      <workItem from="1619218871781" duration="3968000" />
+      <workItem from="1619304633632" duration="5261000" />
+      <workItem from="1619390741211" duration="2255000" />
+      <workItem from="1619737873874" duration="1150000" />
+      <workItem from="1619739131535" duration="655000" />
+    </task>
+    <task id="LOCAL-00001" summary="file tanbahan dari learn_mysql2">
+      <created>1619134833819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619134833819</updated>
+    </task>
+    <task id="LOCAL-00002" summary="file tanbahan dari learn_mysql2">
+      <created>1619135087919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619135087919</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hanya test">
+      <created>1619136230241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619136230241</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hanya test">
+      <created>1619221782179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619221782179</updated>
+    </task>
+    <task id="LOCAL-00005" summary="learn for update data">
+      <created>1619222530786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619222530786</updated>
+    </task>
+    <task id="LOCAL-00006" summary="learn for delete">
+      <created>1619223125236</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619223125236</updated>
+    </task>
+    <task id="LOCAL-00007" summary="learn for alias">
+      <created>1619223805949</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619223805949</updated>
+    </task>
+    <task id="LOCAL-00008" summary="learn for where clause">
+      <created>1619312876864</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619312876864</updated>
+    </task>
+    <task id="LOCAL-00009" summary="learn for where operator">
+      <created>1619312914366</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619312914366</updated>
+    </task>
+    <task id="LOCAL-00010" summary="learn for ORDER BY clause">
+      <created>1619392424848</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619392424848</updated>
+    </task>
+    <task id="LOCAL-00011" summary="learn for LIMIT clause">
+      <created>1619393131947</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619393131947</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="file tanbahan dari learn_mysql2" />
+    <MESSAGE value="hanya test" />
+    <MESSAGE value="learn for update data" />
+    <MESSAGE value="learn for delete" />
+    <MESSAGE value="learn for alias" />
+    <MESSAGE value="learn for where clause" />
+    <MESSAGE value="learn for where operator" />
+    <MESSAGE value="learn for ORDER BY clause" />
+    <MESSAGE value="learn for LIMIT clause" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn for LIMIT clause" />
+  </component>
+</project>
