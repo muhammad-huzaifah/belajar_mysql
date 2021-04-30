@@ -14,7 +14,7 @@ SELECT * FROM products WHERE id='P0001';
 
 UPDATE products
 SET category = 'Makanan'
-WHERE id='P0005';
+WHERE id='P0005' ;
 
 UPDATE products
 SET category = 'Makanan'
