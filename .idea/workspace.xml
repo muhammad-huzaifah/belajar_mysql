@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59e115ba-8038-4915-a9c9-8c27ba658767" name="Default Changelist" comment="learn for LIMIT clause" />
+    <list default="true" id="59e115ba-8038-4915-a9c9-8c27ba658767" name="Default Changelist" comment="learn for constraint">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d7cac8db-c4d1-41df-83f9-63f7aa2f7cc6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d7cac8db-c4d1-41df-83f9-63f7aa2f7cc6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunConfigurationTargetLRU" value="d7cac8db-c4d1-41df-83f9-63f7aa2f7cc6" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -47,6 +52,33 @@
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="agregat_function.sql and 19 more" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/agregat_function.sql" />
+      <script-file value="$PROJECT_DIR$/alias.sql" />
+      <script-file value="$PROJECT_DIR$/auto_increment.sql" />
+      <script-file value="$PROJECT_DIR$/belajar_mysql.sql" />
+      <script-file value="$PROJECT_DIR$/console.sql" />
+      <script-file value="$PROJECT_DIR$/date_and_time.sql" />
+      <script-file value="$PROJECT_DIR$/delete.sql" />
+      <script-file value="$PROJECT_DIR$/flow_control_function.sql" />
+      <script-file value="$PROJECT_DIR$/insert.sql" />
+      <script-file value="$PROJECT_DIR$/limit_clause.sql" />
+      <script-file value="$PROJECT_DIR$/numeric_function.sql" />
+      <script-file value="$PROJECT_DIR$/order_by_clause.sql" />
+      <script-file value="$PROJECT_DIR$/primary.sql" />
+      <script-file value="$PROJECT_DIR$/select.sql" />
+      <script-file value="$PROJECT_DIR$/select_distinct_data.sql" />
+      <script-file value="$PROJECT_DIR$/string_function.sql" />
+      <script-file value="$PROJECT_DIR$/table.sql" />
+      <script-file value="$PROJECT_DIR$/update.sql" />
+      <script-file value="$PROJECT_DIR$/where_clause.sql" />
+      <script-file value="$PROJECT_DIR$/where_operator.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="d7cac8db-c4d1-41df-83f9-63f7aa2f7cc6" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +93,9 @@
       <workItem from="1619390741211" duration="2255000" />
       <workItem from="1619737873874" duration="1150000" />
       <workItem from="1619739131535" duration="655000" />
+      <workItem from="1619739891666" duration="358000" />
+      <workItem from="1619822353460" duration="2291000" />
+      <workItem from="1619824833062" duration="3468000" />
     </task>
     <task id="LOCAL-00001" summary="file tanbahan dari learn_mysql2">
       <created>1619134833819</created>
@@ -139,7 +174,35 @@
       <option name="project" value="LOCAL" />
       <updated>1619393131947</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="learn for LIMIT clause">
+      <created>1619739919187</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619739919187</updated>
+    </task>
+    <task id="LOCAL-00013" summary="learn for update">
+      <created>1619824902542</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1619824902542</updated>
+    </task>
+    <task id="LOCAL-00014" summary="learn for grouping">
+      <created>1619824932449</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619824932449</updated>
+    </task>
+    <task id="LOCAL-00015" summary="learn for constraint">
+      <created>1619828693699</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1619828693699</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +243,9 @@
     <MESSAGE value="learn for where operator" />
     <MESSAGE value="learn for ORDER BY clause" />
     <MESSAGE value="learn for LIMIT clause" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn for LIMIT clause" />
+    <MESSAGE value="learn for update" />
+    <MESSAGE value="learn for grouping" />
+    <MESSAGE value="learn for constraint" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn for constraint" />
   </component>
 </project>
