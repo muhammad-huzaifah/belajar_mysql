@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/auto_increment.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/counstraint.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/grouping.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/limit_clause.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/update.sql" dialect="MariaDB" />
+  </component>
+</project>
