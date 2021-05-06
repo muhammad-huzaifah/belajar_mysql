@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59e115ba-8038-4915-a9c9-8c27ba658767" name="Default Changelist" comment="learn for index">
-      <change afterPath="$PROJECT_DIR$/full_text_search.sql" afterDir="false" />
+    <list default="true" id="59e115ba-8038-4915-a9c9-8c27ba658767" name="Default Changelist" comment="learn one to many relationship">
+      <change afterPath="$PROJECT_DIR$/one_to_many_relationship.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/d7cac8db-c4d1-41df-83f9-63f7aa2f7cc6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d7cac8db-c4d1-41df-83f9-63f7aa2f7cc6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -28,9 +27,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/flow_control_function.sql" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectId" id="1rXtEieGdVXXGrQWzkvskkB8TqR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,7 +47,6 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -59,7 +54,7 @@
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="true" />
   </component>
-  <component name="RunManager" selected="Database Script.counstraint.sql">
+  <component name="RunManager">
     <configuration name="agregat_function.sql and 19 more" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
       <script-file value="$PROJECT_DIR$/agregat_function.sql" />
       <script-file value="$PROJECT_DIR$/alias.sql" />
@@ -85,20 +80,6 @@
       <data-source id="d7cac8db-c4d1-41df-83f9-63f7aa2f7cc6" />
       <method v="2" />
     </configuration>
-    <configuration name="counstraint.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
-      <script-file value="$PROJECT_DIR$/counstraint.sql" />
-      <script-mode>FILE</script-mode>
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Database Script.agregat_function.sql and 19 more" />
-      <item itemvalue="Database Script.counstraint.sql" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Database Script.counstraint.sql" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -117,7 +98,9 @@
       <workItem from="1619739891666" duration="358000" />
       <workItem from="1619822353460" duration="2291000" />
       <workItem from="1619824833062" duration="3468000" />
-      <workItem from="1619910612038" duration="7537000" />
+      <workItem from="1620092258814" duration="50000" />
+      <workItem from="1620117454139" duration="76000" />
+      <workItem from="1620255231740" duration="6009000" />
     </task>
     <task id="LOCAL-00001" summary="file tanbahan dari learn_mysql2">
       <created>1619134833819</created>
@@ -224,56 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619828693699</updated>
     </task>
-    <task id="LOCAL-00016" summary="fixup! learn for grouping">
-      <created>1619910360223</created>
+    <task id="LOCAL-00016" summary="learn one to many relationship">
+      <created>1620263016057</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1619910360223</updated>
+      <updated>1620263016057</updated>
     </task>
-    <task id="LOCAL-00017" summary="learn for LIMIT clause">
-      <created>1619911170247</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1619911170247</updated>
-    </task>
-    <task id="LOCAL-00018" summary="learn for group">
-      <created>1619911346634</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1619911346634</updated>
-    </task>
-    <task id="LOCAL-00019" summary="learn for contraint">
-      <created>1619911404746</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1619911404746</updated>
-    </task>
-    <task id="LOCAL-00020" summary="learn for contraint">
-      <created>1619913414100</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1619913414100</updated>
-    </task>
-    <task id="LOCAL-00021" summary="learn for index">
-      <created>1619913472596</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1619913472596</updated>
-    </task>
-    <task id="LOCAL-00022" summary="learn for index">
-      <created>1619934527829</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1619934527829</updated>
-    </task>
-    <option name="localTasksCounter" value="23" />
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,14 +254,11 @@
     <MESSAGE value="learn for where clause" />
     <MESSAGE value="learn for where operator" />
     <MESSAGE value="learn for ORDER BY clause" />
+    <MESSAGE value="learn for LIMIT clause" />
     <MESSAGE value="learn for update" />
     <MESSAGE value="learn for grouping" />
     <MESSAGE value="learn for constraint" />
-    <MESSAGE value="fixup! learn for grouping" />
-    <MESSAGE value="learn for LIMIT clause" />
-    <MESSAGE value="learn for group" />
-    <MESSAGE value="learn for contraint" />
-    <MESSAGE value="learn for index" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn for index" />
+    <MESSAGE value="learn one to many relationship" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn one to many relationship" />
   </component>
 </project>
