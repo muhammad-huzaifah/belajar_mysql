@@ -34,7 +34,7 @@ ALTER TABLE wishlist
 
 SHOW CREATE TABLE wishlist;
 
-INSERT INTO products (id, name, category, price, quantity)
+INSERT INTO products (id, name, id_category, price, quantity)
 VALUES ('Pxxx', 'Contoh', 'Lain-lain', 1000, 1000 );
 
 SELECT * FROM products;
