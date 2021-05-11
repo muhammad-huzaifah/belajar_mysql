@@ -41,3 +41,5 @@ SELECT numbers1.id, numbers2.id, (numbers1.id * numbers2.id)
 FROM numbers AS numbers1
                   CROSS JOIN numbers AS numbers2
 ORDER BY numbers1.id, numbers2.id;
+
+SELECT * FROM numbers;
