@@ -1,3 +1,5 @@
+#USER 1
+
 START TRANSACTION ;
 
 SELECT * FROM guestbooks;
@@ -54,6 +56,10 @@ UNLOCK TABLES ;
 
 LOCK INSTANCE FOR BACKUP;
 
+UNLOCK INSTANCE;
+
+# USER 2
+
 START TRANSACTION ;
 
 SELECT * FROM guestbooks;
@@ -93,7 +99,7 @@ ROLLBACK ;
 SELECT * FROM products;
 
 UPDATE products
-SET quantity = 100
+SET quantity = 200
 WHERE id = 'P0001';
 
 # LOCK TABLE WRITE
@@ -102,4 +108,7 @@ SELECT * FROM products;
 
 # LOCK INSTANCE
 ALTER TABLE products
-    ADD COLUMN
+    ADD COLUMN sample VARCHAR(100);
+
+
+
